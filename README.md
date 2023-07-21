@@ -12,6 +12,7 @@ I'm currently working on a few exciting projects:
 - [pyprojectsort-vscode](https://github.com/kieran-ryan/pyprojectsort-vscode) - a VSCode extension for pyprojectsort
 - [removestar-pre-commit](https://github.com/kieran-ryan/removestar-pre-commit) - a pre-commit hook for removestar
 - [python-package-template](https://github.com/kieran-ryan/python-package-template) - a template for building Python packages
+- [leabhar-cliste](https://kieran-ryan.github.io/leabhar-cliste/) - a website for software practices, principles and concepts
 - [Historic Kilkenny](https://historickilkenny.com) - a history website for County Kilkenny in Ireland
 - ...and learning to solve the Rubik's cube... wish me luck!
 

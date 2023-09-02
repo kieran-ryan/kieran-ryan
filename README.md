@@ -16,5 +16,6 @@ I'm currently working on a few exciting projects:
 - [leabhar-cliste](https://kieran-ryan.github.io/leabhar-cliste/) - a website for software practices, principles and concepts
 - [Historic Kilkenny](https://historickilkenny.com) - a history website for County Kilkenny in Ireland
 - [Historic Kells](http://www.historickells.com) - a history website and mill archive for the village of Kells in Kilkenny
+- and contributing to open source [issues](https://github.com/search?q=author%3Akieran-ryan+-owner%3Akieran-ryan&type=issues&ref=advsearch) and [pull requests](https://github.com/search?q=author%3Akieran-ryan+-owner%3Akieran-ryan&type=pullrequests&ref=advsearch)
 
 Thank you for taking the time to know me better.

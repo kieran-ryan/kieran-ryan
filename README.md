@@ -2,9 +2,9 @@
 
 I am passionate about Python, automation, staying up to date with the latest innovations in tech, and creating awesome products.
 
-My software journey began in 2010 when I delved into programming with microcontrollers. In 2013 I stumbled upon Python (3.3) through [@CoderDojo](https://github.com/CoderDojo) and knew that my calling was in software development. I subsequently pursued a Computer Science degree at University, and I've been thoroughly enjoying my work as a Software Engineer ever since.
+My software journey began in 2010 when I delved into programming with microcontrollers. However it was in 2013, when I started working with Python and in web development, that I knew I wanted to embark on a career in the space. I subsequently pursued a Computer Science degree at University, and I've been thoroughly enjoying my work as a Software Engineer ever since.
 
-Aside from software, I enjoy writing about history, immersing myself in literature, strumming guitar, listening to music, and engaging in a range of sports such as athletics, football, tennis, golf, and the traditional Irish sport of hurling.
+Aside from software, I enjoy writing history, immersing myself in literature, strumming guitar, listening to music, and engaging in a range of sports such as athletics, football, tennis, golf, and the traditional Irish sport of hurling.
 
 I'm currently working on a few exciting projects:
 

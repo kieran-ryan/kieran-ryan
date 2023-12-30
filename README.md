@@ -79,6 +79,7 @@ I'm currently working on a few exciting projects:
 - [pyprojectsort](https://github.com/kieran-ryan/pyprojectsort) - a formatter for pyproject.toml files
 - [pyprojectsort-vscode](https://github.com/kieran-ryan/pyprojectsort-vscode) - a VSCode extension for pyprojectsort
 - [removestar-pre-commit](https://github.com/kieran-ryan/removestar-pre-commit) - a pre-commit hook for removestar
+- [behave-cucumber-matcher](https://github.com/kieran-ryan/behave-cucumber-matcher) - a Behave step matcher for Cucumber Expressions
 - [python-package-template](https://github.com/kieran-ryan/python-package-template) - a template for building Python packages
 - [cucumber-messages](https://github.com/kieran-ryan/cucumber-messages) - Python support for the cucumber messages protocol
 - [leabhar-cliste](https://kieran-ryan.github.io/leabhar-cliste/) - a website for software practices, principles and concepts

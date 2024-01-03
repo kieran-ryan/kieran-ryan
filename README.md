@@ -1,7 +1,5 @@
 ### Hi there, I'm [Kieran](https://github.com/kieran-ryan).
 
-I am passionate about Python, automation, staying up to date with the latest innovations in tech, and creating awesome products. Enjoy scripting, web development, test automation, working with microcontrollers and problem solving.
-
 ### Languages
 
 ![](https://img.shields.io/badge/css-gray?style=flat&logo=css3)

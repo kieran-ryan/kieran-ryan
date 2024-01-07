@@ -85,19 +85,19 @@
 
 #### Projects I'm working on at the moment
 
-- [cucumber-vscode](https://github.com/cucumber/vscode) - VSCode support for Cucumber
-- [cucumber-language-server](https://github.com/cucumber/language-server) - Language Server Protocol support for Cucumber
-- [cucumber-language-service](https://github.com/cucumber/language-service) - the services used by the Cucumber Language Server
+- [cucumber-vscode](https://github.com/cucumber/vscode) - VSCode extension for Cucumber
+- [cucumber-language-server](https://github.com/cucumber/language-server) - Cucumber Language Server Protocol server
+- [cucumber-language-service](https://github.com/cucumber/language-service) - Services of the Cucumber Language Server
 - [cucumber-gherkin](https://github.com/cucumber/gherkin) - a parser and compiler for the Gherkin language
 - [cucumber-gherkin-utils](https://github.com/cucumber/gherkin-utils) - a set of utilities for working with gherkin documents and AST
 - [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) - a human-friendly alternative to regular expressions
 - [pyprojectsort](https://github.com/kieran-ryan/pyprojectsort) - a formatter for pyproject.toml files
-- [removestar](https://github.com/asmeurer/removestar) - a tool to automatically replace wildcard imports in Python
+- [removestar](https://github.com/asmeurer/removestar) - a tool to replace wildcard with explicit imports in Python
 - [removestar-pre-commit](https://github.com/kieran-ryan/removestar-pre-commit) - a pre-commit hook for removestar
 - [behave-cucumber-matcher](https://github.com/kieran-ryan/behave-cucumber-matcher) - a Behave step matcher for Cucumber Expressions
 - [python-package-template](https://github.com/kieran-ryan/python-package-template) - a template for building Python packages
 - [cucumber-messages](https://github.com/kieran-ryan/cucumber-messages) - Python support for the cucumber messages protocol
-- [leabhar-cliste](https://kieran-ryan.github.io/leabhar-cliste/) - a website for software practices, principles and concepts
-- [Historic Kilkenny](https://historickilkenny.com) - a history website for County Kilkenny in Ireland
-- [Historic Kells](http://www.historickells.com) - a history website and mill archive for the village of Kells in Kilkenny
+- [leabhar-cliste](https://kieran-ryan.github.io/leabhar-cliste/) - a website for software practices, principles, and concepts
+- [historic-kilkenny](https://historickilkenny.com) - a history website for County Kilkenny in Ireland
+- [historic-kells](http://www.historickells.com) - a history website and mill archive for the village of Kells in Kilkenny
 - and contributing to open source [issues](https://github.com/search?q=author%3Akieran-ryan+-owner%3Akieran-ryan&type=issues&ref=advsearch), [pull requests](https://github.com/search?q=author%3Akieran-ryan+-owner%3Akieran-ryan&type=pullrequests&ref=advsearch) and [discussion](https://github.com/search?q=commenter%3Akieran-ryan+-owner%3Akieran-ryan&type=issues&ref=advsearch)

@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kieran](https://github.com/kieran-ryan).
 
-### Languages
+#### Languages
 
 ![](https://img.shields.io/badge/css-gray?style=flat&logo=css3)
 ![](https://img.shields.io/badge/gherkin-gray?style=flat&logo=cucumber)
@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/typescript-gray?style=flat&logo=typescript)
 ![](https://img.shields.io/badge/Swift-gray?style=flat&logo=swift)
 
-### Frameworks
+#### Frameworks
 
 ![](https://img.shields.io/badge/backstage-gray?style=flat&logo=backstage)
 ![](https://img.shields.io/badge/Create_React_App-gray?style=flat&logo=create-react-app)
@@ -24,13 +24,13 @@
 ![](https://img.shields.io/badge/Tailwind_CSS-gray?style=flat&logo=tailwindcss)
 ![](https://img.shields.io/badge/Unity-gray?style=flat&logo=unity)
 
-### Hardware
+#### Hardware
 
 ![](https://img.shields.io/badge/Arduino-gray?style=flat&logo=arduino)
 ![](https://img.shields.io/badge/Logitech-gray?style=flat&logo=logitech)
 ![](https://img.shields.io/badge/Raspberry_Pi-gray?style=flat&logo=raspberrypi)
 
-### Infrastructure
+#### Infrastructure
 
 ![](https://img.shields.io/badge/Dependabot-gray?style=flat&logo=dependabot)
 ![](https://img.shields.io/badge/docker-gray?style=flat&logo=docker)
@@ -50,7 +50,7 @@
 ![](https://img.shields.io/badge/Visual_Studio_Code-gray?style=flat&logo=visual-studio-code)
 ![](https://img.shields.io/badge/zsh-gray?style=flat&logo=zsh)
 
-### Tools
+#### Tools
 
 ![](https://img.shields.io/badge/Cookiecutter-gray?style=flat&logo=cookiecutter)
 ![](https://img.shields.io/badge/confluence-gray?style=flat&logo=confluence)
@@ -66,7 +66,7 @@
 ![](https://img.shields.io/badge/Sphinx-gray?style=flat&logo=sphinx)
 ![](https://img.shields.io/badge/Tableau-gray?style=flat&logo=tableau)
 
-### Design
+#### Design
 
 ![](https://img.shields.io/badge/canva-gray?style=flat&logo=canva)
 ![](https://img.shields.io/badge/diagrams.net-gray?style=flat&logo=diagrams.net)
@@ -76,17 +76,23 @@
 ![](https://img.shields.io/badge/Mermaid-gray?style=flat&logo=mermaid)
 ![](https://img.shields.io/badge/Miro-gray?style=flat&logo=miro)
 
-### Operating Systems
+#### Operating Systems
 
 ![](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux)
 ![](https://img.shields.io/badge/MacOS-gray?style=flat&logo=macos)
 ![](https://img.shields.io/badge/Windows-gray?style=flat&logo=windows)
 
 
-I'm currently working on a few exciting projects:
+#### Projects I'm working on at the moment
 
+- [cucumber-vscode](https://github.com/cucumber/vscode) - VSCode support for Cucumber
+- [cucumber-language-server](https://github.com/cucumber/language-server) - Language Server Protocol support for Cucumber
+- [cucumber-language-service](https://github.com/cucumber/language-service) - the services used by the Cucumber Language Server
+- [cucumber-gherkin](https://github.com/cucumber/gherkin) - a parser and compiler for the Gherkin language
+- [cucumber-gherkin-utils](https://github.com/cucumber/gherkin-utils) - a set of utilities for working with gherkin documents and AST
+- [cucumber-expressions](https://github.com/cucumber/cucumber-expressions) - a human-friendly alternative to regular expressions
 - [pyprojectsort](https://github.com/kieran-ryan/pyprojectsort) - a formatter for pyproject.toml files
-- [pyprojectsort-vscode](https://github.com/kieran-ryan/pyprojectsort-vscode) - a VSCode extension for pyprojectsort
+- [removestar](https://github.com/asmeurer/removestar) - a tool to automatically replace wildcard imports in Python
 - [removestar-pre-commit](https://github.com/kieran-ryan/removestar-pre-commit) - a pre-commit hook for removestar
 - [behave-cucumber-matcher](https://github.com/kieran-ryan/behave-cucumber-matcher) - a Behave step matcher for Cucumber Expressions
 - [python-package-template](https://github.com/kieran-ryan/python-package-template) - a template for building Python packages
